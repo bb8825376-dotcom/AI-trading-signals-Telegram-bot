@@ -10,7 +10,7 @@ from telegram.ext import ApplicationBuilder, CommandHandler, ContextTypes
 
 # ===== CONFIG =====
 TOKEN = 8615825848:AAEZzN4tq9Uf7roKmIXNMFjR-fgmJEk_5do
-CHAT_Id
+CHAT_Id-6818375409
 
 # ===== MODEL =====
 class Model(nn.Module):
